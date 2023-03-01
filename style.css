@@ -1,0 +1,16 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+body main {
+	top: 50vh;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+body main content {
+	flex: 1;
+	flex-direction: column;
+}
